@@ -1,0 +1,14 @@
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\bin\x64\Release\CryptoVisionGUI.exe.config
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\bin\x64\Release\CryptoVisionGUI.exe
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\bin\x64\Release\CryptoVisionGUI.pdb
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\bin\x64\Release\CryptoVisionGUI.xml
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\obj\x64\Release\CryptoVisionGUI.Form1.resources
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\obj\x64\Release\CryptoVisionGUI.Properties.Resources.resources
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\obj\x64\Release\CryptoVisionGUI.csproj.GenerateResource.cache
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\obj\x64\Release\CryptoVisionGUI.exe
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\obj\x64\Release\CryptoVisionGUI.pdb
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\x64\bin\CryptoVisionGUI.exe.config
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\x64\bin\CryptoVisionGUI.xml
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\x64\bin\CryptoVisionGUI.exe
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\x64\bin\CryptoVisionGUI.pdb
+C:\Users\Mr_Zet\Downloads\CryptoVision_last\CryptoVision_last\CryptoVision\CryptoVisionGUI\obj\x64\Release\CryptoVisionGUI.csprojAssemblyReference.cache
